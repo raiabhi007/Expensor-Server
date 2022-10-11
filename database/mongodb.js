@@ -9,6 +9,6 @@ async function connect() {
 );
 console.log('MongoDB connection is successful');
 }
-// comment added
+
 export default connect;
 
